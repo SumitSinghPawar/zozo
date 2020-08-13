@@ -25,13 +25,13 @@
      left:0;
      top:0;
      height:450px;
-     width:640px;
+     width:700px;
      overflow:hidden;
      text-align:center;
  } 
 
  #gallerywrapper #gallery div {
-     width:640px; height:900px; 
+     width:700px; height:900px; 
      padding-top:10px; 
      position:relative;
  } 
@@ -69,7 +69,13 @@
      margin-right:80px;
      text-decoration:none;
  }
+ img
+ {
+ 	border-radius: 30px;
+ 	width: 700px;
+ }
 		</style>
+
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
